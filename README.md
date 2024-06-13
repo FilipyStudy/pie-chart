@@ -12,4 +12,4 @@ You can visualize the percentage of each country representing the total sum of s
 - Created a machine learning predicting step
 
 # Images of the project:
-![pie chart](https://imgur.com/a/XwPfRfG)
+![pie chart](https://i.imgur.com/1zE1NW5.png)
