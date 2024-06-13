@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 LOCALHOST = '127.0.0.1'
 USERNAME = 'root'
-PASSWORD = 'M4C4C0BR4NC0'
+PASSWORD = 'root'
 DATABASE = 'online_retail'
 
 con = mysql.connector.connect(user=USERNAME, password=PASSWORD, host=LOCALHOST, database=DATABASE)
