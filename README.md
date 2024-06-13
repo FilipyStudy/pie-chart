@@ -13,3 +13,6 @@ You can visualize the percentage of each country representing the total sum of s
 
 # Images of the project:
 ![pie chart](https://i.imgur.com/1zE1NW5.png)
+
+# Database link:
+![Click here to open the database link](https://www.kaggle.com/datasets/vijayuv/onlineretail)
